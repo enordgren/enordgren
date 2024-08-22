@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everyone 👋
+- 🔭 I work in economic research
+- 🌱 I’m taking a Computer Science course at Tulane University
 
 <!--
 **enordgren/enordgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
